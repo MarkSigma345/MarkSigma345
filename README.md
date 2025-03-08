@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<!--Мои навыки: Немного умею программировать, люблю играть в компьютере, гулять, играть в футбол
+  <img src=" width="10%">
+
 **MarkSigma345/MarkSigma345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
